@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alexandra. I hold a Licentiate and Bachelor in Economics from Pontificia Universidad Católica del Perú. I am currently based in Lima, Peru where I am working as a research assistant at [GRADE](https://www.grade.org.pe/en/). I am always coding in Stata and R, and currently exploring data viz design.
+I'm Alexandra. I hold a Licentiate and Bachelor in Economics from Pontificia Universidad Católica del Perú. I am currently based in Lima, Peru where I am working as a research assistant at [GRADE](https://www.grade.org.pe/en/).
 
 ### Connect with me:
 
